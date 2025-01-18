@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: @Paiko006
+- github account: Paiko006
 - Email: paikobro006@gmail.com
 - Arweave Address: e4s0hWus2lc2OFYvGIMlgDjT9w2n2ghiwIQ-jkatnrY
 - ETH Address: 0x5F53aFeDd683468C8BC710682F0C666C073D6d35
